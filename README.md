@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @merlindaniel
 - 👀 I’m interested in web and mobile application development
-- 🌱 I’m currently learning React Native and more technologies at the university of Málaga
+- 🌱 I’m currently learning React Native, Vue and more technologies at the university of Málaga
 - 💻 I know some technologies like Spring boot, Django, Java, Python, C, C++, C#, JavaScript, HTML, CSS, Sass
 
 <!---
