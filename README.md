@@ -31,6 +31,7 @@
 <p>
   <img src="https://img.shields.io/badge/Go-black?style=flat&logo=go&logoColor=white&color=blue" alt="Go logo" title="Go" height="25" />
   <img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=white&color=5BC0F8" alt="React logo" title="React" height="25" />
+  <img src="https://img.shields.io/badge/NextJS-black?style=flat&logo=nextdotjs&logoColor=white&color=black" alt="NuxtJS logo" title="NuxtJS" height="25" />
   <img src="https://img.shields.io/badge/NodeJS-black?style=flat&logo=nodedotjs&logoColor=white&color=026e00" alt="NodeJs logo" title="NodeJS" height="25" />
 </p>
 
