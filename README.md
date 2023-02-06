@@ -33,6 +33,8 @@
   <img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=white&color=5BC0F8" alt="React logo" title="React" height="25" />
   <img src="https://img.shields.io/badge/NextJS-black?style=flat&logo=nextdotjs&logoColor=white&color=black" alt="NextJS logo" title="NextJS" height="25" />
   <img src="https://img.shields.io/badge/NodeJS-black?style=flat&logo=nodedotjs&logoColor=white&color=026e00" alt="NodeJs logo" title="NodeJS" height="25" />
+  <img src="https://img.shields.io/badge/Tailwind-black?style=flat&logo=tailwindcss&logoColor=white&color=0EA5e9" alt="Tailwind logo" title="Tailwind" height="25" />
+  <img src="https://img.shields.io/badge/.Net-white?style=flat&&logoColor=white&color=9780E5" alt=".Net logo" title=".Net" height="25" />
 </p>
 
 <br/>
@@ -61,6 +63,10 @@ HTML5:
 CSS3:
 <img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=css3&logoColor=white&color=blue" alt="CSS3 logo" title="CSS3" height="25" />
 
+Tailwind:
+<img src="https://img.shields.io/badge/Tailwind-black?style=flat&logo=tailwindcss&logoColor=white&color=0EA5e9" alt="Tailwind logo" title="Tailwind" height="25" />
+
+
 JS:
 <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=white&color=F7DF1E" alt="JS logo" title="JS" height="25" />
 
@@ -79,6 +85,10 @@ Django:
 
 SQLite3:
 <img src="https://img.shields.io/badge/SQLite3-black?style=flat&logo=sqlite&logoColor=white&color=5BC0F8" alt="SQLite logo" title="SQLite" height="25" />
+
+.Net:
+<img src="https://img.shields.io/badge/.Net-white?style=flat&&logoColor=white&color=9780E5" alt=".Net logo" title=".Net" height="25" />
+
 
 Spring Boot:
 <img src="https://img.shields.io/badge/SpringBoot-white?style=flat&logo=springboot&logoColor=white&color=4CAF50" alt="SpringBoot logo" title="SpringBoot" height="25" />
