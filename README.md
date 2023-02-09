@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/Vue%202-white?style=flat&logo=vuedotjs&logoColor=white&color=388E3C" alt="Vue logo" title="Vue" height="25" />
   <img src="https://img.shields.io/badge/Bootstrap-white?style=flat&logo=bootstrap&logoColor=white&color=712cf9" alt="Bootstrap logo" title="Bootstrap" height="25" /> 
   <img src="https://img.shields.io/badge/Material%20Design-white?style=flat&logo=materialdesign&logoColor=black&color=white" alt="Google Material logo" title="Google Material" height="25" />
+  <img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=white&color=5BC0F8" alt="React logo" title="React" height="25" />
+  <img src="https://img.shields.io/badge/NextJS-black?style=flat&logo=nextdotjs&logoColor=white&color=black" alt="NextJS logo" title="NextJS" height="25" />
 </p>
 <h3>Backend Technologies</h3>
 <p>
@@ -20,6 +22,8 @@
   <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white&color=blue" alt="Python logo" title="Python" height="25" />
   <img src="https://img.shields.io/badge/Django-black?style=flat&logo=Django&logoColor=white&color=3C6255" alt="Django logo" title="Django" height="25" />
   <img src="https://img.shields.io/badge/FastAPI-white?style=flat&logo=fastapi&logoColor=white&color=009485" alt="FastAPI logo" title="FastAPI" height="25" />
+  <img src="https://img.shields.io/badge/NextJS-black?style=flat&logo=nextdotjs&logoColor=white&color=black" alt="NextJS logo" title="NextJS" height="25" />
+  <img src="https://img.shields.io/badge/NodeJS-black?style=flat&logo=nodedotjs&logoColor=white&color=026e00" alt="NodeJs logo" title="NodeJS" height="25" />
   <img src="https://img.shields.io/badge/SQL-black?style=flat&logoColor=white&color=blue" alt="SQL logo" title="SQL" height="25" />
   <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white&color=blue" alt="MySQL logo" title="MySQL" height="25" />
   <img src="https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoColor=white&color=00C853" alt="MongoDB logo" title="MongoDB" height="25" />
@@ -30,9 +34,6 @@
 <h3>Currently learning</h3>
 <p>
   <img src="https://img.shields.io/badge/Go-black?style=flat&logo=go&logoColor=white&color=blue" alt="Go logo" title="Go" height="25" />
-  <img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=white&color=5BC0F8" alt="React logo" title="React" height="25" />
-  <img src="https://img.shields.io/badge/NextJS-black?style=flat&logo=nextdotjs&logoColor=white&color=black" alt="NextJS logo" title="NextJS" height="25" />
-  <img src="https://img.shields.io/badge/NodeJS-black?style=flat&logo=nodedotjs&logoColor=white&color=026e00" alt="NodeJs logo" title="NodeJS" height="25" />
   <img src="https://img.shields.io/badge/Tailwind-black?style=flat&logo=tailwindcss&logoColor=white&color=0EA5e9" alt="Tailwind logo" title="Tailwind" height="25" />
   <img src="https://img.shields.io/badge/.Net-white?style=flat&&logoColor=white&color=9780E5" alt=".Net logo" title=".Net" height="25" />
 </p>
